@@ -1,5 +1,5 @@
-# SECB3203_25261
-Programming For Bioinformatics
+# Group 11
+SECB3203_25261 Programming For Bioinformatics
 
 This is a repository for the project of Group 11 consisting of:
 | Name | Matric Number | Email |
