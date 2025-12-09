@@ -1,4 +1,4 @@
-# Group 11
+# Group 12
 SECB3203_25261 Programming for Bioinformatics
 
 This is a repository for the project of Group 12 consisting of:
