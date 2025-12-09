@@ -2,9 +2,7 @@
 
 <br>
 <details>
-    <summary>
-
-## 🎯 Mission: Precision in Blood Cancer Diagnosis</summary>
+    <summary>🎯 Mission: Precision in Blood Cancer Diagnosis</summary>
 
 The term "__leukemia__" covers a spectrum of devastating blood cancers, but not all leukemias are the same. Misclassification leads to missed treatment windows and poor patient outcomes.
 
@@ -44,9 +42,7 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
 <br>
 
 <details>
-<summary>
-
-## 🛠️ The Pipeline: From Raw Data to Diagnostic Model </summary>
+<summary>🛠️ The Pipeline: From Raw Data to Diagnostic Model </summary>
 
 This repository contains the complete pipeline for multi-class classification:
 
@@ -70,9 +66,7 @@ This repository contains the complete pipeline for multi-class classification:
 <br>
 
 <details>
-
-## 🎓 Course Context
+<summary>🎓 Course Context
 __Group 12__ : SECB3203_25261 Programming for Bioinformatics 
-__NGU YU LING__ (A23CS0149)
-
+__NGU YU LING__ (A23CS0149)</summary>
 <details>
