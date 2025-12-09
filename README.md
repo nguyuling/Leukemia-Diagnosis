@@ -1,5 +1,7 @@
 # The Computational Quest for Precision in Leukemia Diagnosis
 
+<br>
+
 ## 🎯 Mission: Precision in Blood Cancer Diagnosis
 
 The term "__leukemia__" covers a spectrum of devastating blood cancers, but not all leukemias are the same. Misclassification leads to missed treatment windows and poor patient outcomes.
@@ -7,14 +9,36 @@ The term "__leukemia__" covers a spectrum of devastating blood cancers, but not 
 This project, developed for the __Programming for Bioinformatics__ course, tackles this critical challenge head-on. Using machine learning and public genomic data (gene expression profiles from the GSE13164 dataset) to build a robust, data-driven classifier.
 
 The Goal: To accurately distinguish and predict the __four major leukemia subtypes__ based on their molecular signatures.
-| Leukemia Sub-type | Abbreviation |
-| :---: | :---: |
-| Acute Lymphoblastic Leukemia | ALL |
-| Acute Myeloid Leukemia | AML |
-| Chronic Lymphocytic Leukemia | CLL |
-| Chronic Myeloid Leukemia | CML |—.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Leukemia Sub-type</th>
+      <th>Abbreviation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Acute Lymphoblastic Leukemia</td>
+      <td>ALL</td>
+    </tr>
+    <tr>
+      <td>Acute Myeloid Leukemia</td>
+      <td>AML</td>
+    </tr>
+    <tr>
+      <td>Chronic Lymphoblastic Leukemia</td>
+      <td>CLL</td>
+    </tr>
+   <tr>
+      <td>Chronic Myeloid Leukemia</td>
+      <td>CML</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
+
 ## 🛠️ The Pipeline: From Raw Data to Diagnostic Model
 
 This repository contains the complete pipeline for multi-class classification:
@@ -35,9 +59,7 @@ This repository contains the complete pipeline for multi-class classification:
 4. __Model Development__ & Evaluation : Training and optimizing classifiers (e.g., Random Forest, Logistic Regression) using rigorous cross-validation to achieve high prediction accuracy.
 
 <br>
+
 ## 🎓 Course Context
 __Group 12__ : SECB3203_25261 Programming for Bioinformatics 
-
-| Name | Matric Number | Email |
-|:---:|:---:|:---:|
-| NGU YU LING | A23CS0149 | nguyuling@gmail.com |
+__NGU YU LING__ (A23CS0149)
