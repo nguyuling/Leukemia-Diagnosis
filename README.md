@@ -42,11 +42,6 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
 <summary><h2>🛠️ The Pipeline: From Raw Data to Diagnostic Model</h2></summary>
 
 This repository contains the complete pipeline for multi-class classification:
-0. __Documentation__ : 
-```text
-  story.pdf
-  report.pdf
-```
 
 1. __Data Wrangling__ : Cleaning and preprocessing raw microarray data.
 ```text
@@ -60,6 +55,12 @@ This repository contains the complete pipeline for multi-class classification:
 3. __Feature Selection__ : Reducing the feature space to a high-impact biomarker panel.
 
 4. __Model Development__ & Evaluation : Training and optimizing classifiers (e.g., Random Forest, Logistic Regression) using rigorous cross-validation to achieve high prediction accuracy.
+
+5. __Documentation__ : 
+```text
+  story.pdf
+  report.pdf
+```
 
 </details>
 
