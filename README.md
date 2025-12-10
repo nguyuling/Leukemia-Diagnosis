@@ -17,21 +17,21 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
     </tr>
   </thead>
   <tbody>
-    <tr align="center">
-      <td>Acute Lymphoblastic Leukemia</td>
-      <td>ALL</td>
+    <tr>
+      <td align="center">Acute Lymphoblastic Leukemia</td>
+      <td align="center">ALL</td>
     </tr>
     <tr>
-      <td>Acute Myeloid Leukemia</td>
-      <td>AML</td>
+      <td align="center">Acute Myeloid Leukemia</td>
+      <td align="center">AML</td>
     </tr>
     <tr>
-      <td>Chronic Lymphoblastic Leukemia</td>
-      <td>CLL</td>
+      <td align="center">Chronic Lymphoblastic Leukemia</td>
+      <td align="center">CLL</td>
     </tr>
    <tr>
-      <td>Chronic Myeloid Leukemia</td>
-      <td>CML</td>
+      <td align="center">Chronic Myeloid Leukemia</td>
+      <td align="center">CML</td>
     </tr>
   </tbody>
 </table>
