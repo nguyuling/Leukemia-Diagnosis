@@ -1,0 +1,32 @@
+Session 1 – Data Type
+- Data type
+    - integer 
+    - float
+    - bool
+    - str
+- Mathemathical operations
+    + addition
+    - subtraction
+    * multiplication
+    / division
+- Logical operator
+    < less than
+    > greater than
+    <= less than or equal to
+    >= greater than or equal to
+    == equal to
+    != not equal to
+
+
+Session 2 – DNA sequence manipulation using strings
+- String manipulation
+    - .lower()
+    - .upper()
+    - len(str)
+    - .find()
+    - .count() etc
+
+
+Session 3 - Strore & manipulate sequences using lists
+
+
