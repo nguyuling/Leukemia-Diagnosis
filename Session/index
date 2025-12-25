@@ -24,9 +24,60 @@ Session 2 – DNA sequence manipulation using strings
     - .upper()
     - len(str)
     - .find()
-    - .count() etc
+    - .count()
+    etc
 
 
 Session 3 - Strore & manipulate sequences using lists
+- List <-> string conversion
+    - list(str)
+    - "".join(list)
+- List indexing & slicing
+    - list[i]
+    - list[i:n]
+- List manipulation
+    - len(list)
+    - .append(new_item)
+    - .sort()
+    - .reverse()
+    - .insert(i, new_item)
+    - del list[i]
+    - .remove[item]
 
 
+Session 4 - Find the reverse sequence
+- str[start:stop:step] / list[start:stop:step]
+   - str[::-1] #revere the string
+   - str[::2]  #every second character
+   - str[1:4] #character from index 1 to 3
+- list.reverse()
+
+
+Session 5 - Functions
+
+
+Session 6 - Generate random dna sequence
+- using for loop on string
+- using for loop on list
+- using while loop on string
+
+
+Session 7 - Get codons from a sequence
+- Get codons
+    - range(0, len(dna), 3)
+    - codon = dna[i:i+3]
+- Conversion DNA <-> RNA
+    - .replace("T", "U") vice versa
+
+
+Session 8 - Reverse complements
+- Obtain DNa sequence
+- find the reverse of the DNA sequence
+- find the complement of the reverse sequence
+
+
+Session 9: Complements of nucleotide sequences
+- Obtain DNA sequence
+- Create a dictionary of base complements
+- Use for loop to find the base complements of the sequence
+- Use for loop to achieve the same for multiple sequences
